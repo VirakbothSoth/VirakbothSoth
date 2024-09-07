@@ -1,4 +1,4 @@
 ```html
 🐍 Python Intermediate
-🕸️ </html> Intermediate
+🕸️ <html> Intermediate
 ```

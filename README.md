@@ -1,7 +1,3 @@
-```
-🐍 Python Intermediate
-```
-
 ```html
-🕸️ <html> Intermediate
-```
+🐍 Python Intermediate
+🕸️ </html> Intermediate```

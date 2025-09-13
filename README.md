@@ -36,7 +36,5 @@
 
 ## 📚 Learning Goals
 - Master Next.js 14 routing, layouts, and server-side rendering  
-- Go deeper into Django REST Framework & full-stack API stuff  
-- Improve React state management (no Redux unless I *have* to 😤)
-
+- Go deeper into Backend, specifically SQL and Supabase
 ---

@@ -25,6 +25,9 @@
 **Backend (still new to it)**:  
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)
 
 ---
 

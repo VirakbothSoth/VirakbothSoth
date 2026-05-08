@@ -1,12 +1,13 @@
-# 👋 Yo, I'm Virakboth
+<img src="https://i.imgur.com/r8lt4mI.png">
 
-🚀 Front-End Dev • 🐍 Python, Java • 📚 Student @ Step IT Academy & ISTAD 
-🌐 I build clean UIs, small python & java programs, and occasionally talk to AI at midnight for some reason
 
----
+# 👋 Hi, I'm Virakboth :D
+**🚀 Front-End Dev • 🐍 Python, Java**
 
-## 🛠️ Tech Stack  
-**Languages**:  
+📚 Current Student @ *Step IT Academy & ISTAD*
+
+## 🛠️ Tech Stack
+**Languages**:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,16 +29,19 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)
 
----
-
-## 📦 Current Projects
-- 🔥 **Portfolio** site powered by NextJS + Tailwind
-- 🔗 **Link Shortener** for CS50W final project using Django
-- 📃 **Static CSS Pages** for FreeCodeCamp & Odin Project using HTML + CSS
-
----
-
-## 📚 Learning Goals
-- Master Next.js 14 routing, layouts, and server-side rendering  
-- Go deeper into Backend, specifically SQL and Supabase
----
+## 📚 I took these courses!
+*not all courses are listed, i took too much 😭😭*
+*please check my [portfolio](https://virakbothsoth.pages.dev) to see my certificates*
+- **Online Video Courses**
+    - **CS50 Courses!** *taught by harvard - free*
+        - [CS50x (Introduction to Computer Science)](https://cs50.harvard.edu/x/) - *scratch, C, python, html, css, js, flask*
+        - [CS50p (CS50's Intro to Python)](https://cs50.harvard.edu/python/)
+        - [CS50s (CS50's Intro to Scratch)](https://cs50.harvard.edu/scratch/)
+        - [CS50w (CS50's Intro to Web Development)](https://cs50.harvard.edu/web/) - *html, css, js, django*
+    - **Coursera Courses** *covers many frameworks & trusted - paid*
+        - [**Scrimba**](https://coursera.org/partners/scrimba) *niche school but has interactive editor within their videos*
+            - [Full-Stack Development](https://coursera.org/specializations/fullstack-development) *my personal fav <3 - html, css, js, ts, tailwind, react, supabase*
+            - [Professional React.js](https://coursera.org/specializations/react) *teaches even up to React v19*
+- **Physical School**
+    - [**Step IT Academy**](https://cambodia.itstep.org/) - *Major: Software Development*
+    - [**ISTAD**](https://www.cstad.edu.kh) - *Course: Full-Stack, AI (soon)*

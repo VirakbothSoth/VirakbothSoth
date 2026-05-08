@@ -6,25 +6,31 @@
 
 📚 Current Student @ *Step IT Academy & ISTAD*
 
+## ✨ Short Intro
+Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who's first programming language was actually ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), I learnt it since I was 12 years old.
+
+Now, I mainly focus on building websites with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white), using these frameworks since I was 14
+
+I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) as it's a requirement for other schools I'm interested into taking.
+
 ## 🛠️ Tech Stack
 **Languages**:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-**Frontend**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+**Frontend**:
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-0D0D0D?style=flat&logo=astro&logoColor=FFFFFF)
-
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Backend (still new to it)**:  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+**Backend (still new to it)**:
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)

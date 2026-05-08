@@ -6,19 +6,10 @@
 
 📚 Current Student @ *Step IT Academy & ISTAD*
 
-<div style="border-radius: 12px; border: 1px solid white; padding: 12px; margin: 24px 0;">
-<h2>Hey!</h2>
+Hey! It would help if you could star my repositories, thanks!
+[Star this readme.md itself!](https://github.com/VirakbothSoth/VirakbothSoth)
 
-It would help if you could star my repositories, thanks!
-<a href="https://github.com/VirakbothSoth/VirakbothSoth" style="display:block; margin: 12px 0;">
-    Star this readme.md itself!
-</a>
-</div>
-
-<a href="https://virakbothsoth.pages.dev"
-style="padding: 6px 12px; margin: 24px 0; background: #aaaaff; color:white; border-radius: 12px;">
-See my portfolio!
-</a>
+[See my portfolio!](https://virakbothsoth.pages.dev)
 
 ## ✨ Short Intro
 Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who's first programming language was actually ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), I learnt it since I was 12 years old.

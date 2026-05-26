@@ -40,6 +40,9 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=FFFFFF)
 
+**Others**:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
 ## 📚 I took these courses!
 *not all courses are listed, i took too much 😭😭*
 *please check my [portfolio](https://virakbothsoth.pages.dev) to see my certificates*

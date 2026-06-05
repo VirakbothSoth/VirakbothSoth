@@ -55,7 +55,11 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
     - **Coursera Courses** *covers many frameworks & trusted - paid*
         - [**Scrimba**](https://coursera.org/partners/scrimba) *niche school but has interactive editor within their videos*
             - [Full-Stack Development](https://coursera.org/specializations/fullstack-development) *my personal fav <3 - html, css, js, ts, tailwind, react, supabase*
+            - [Front-End Development](https://coursera.org/specializations/frontend)  *html, css, js, react & web practices*
             - [Professional React.js](https://coursera.org/specializations/react) *teaches even up to React v19*
+            - [Next.JS](https://coursera.org/learn/learn-nextjs) 
+            - [Supabase](https://coursera.org/learn/intro-to-supabase)
+            - [Astro Framework](https://coursera.org/learn/build-fast-websites-with-astro) I feel like there isn't enough courses that teach astro
 - **Physical School**
     - [**Step IT Academy**](https://cambodia.itstep.org/) - *Major: Software Development*
     - [**ISTAD**](https://www.cstad.edu.kh) - *Course: Full-Stack, AI (soon)*

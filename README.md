@@ -1,7 +1,7 @@
-<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/18/da/9a/caption.jpg?w=1000&h=-1&s=1" width="1000" height="200" style="object-fit:cover;">
+<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/18/da/9a/caption.jpg?w=1000&h=-1&s=1" style="width:100%; height:200px; object-fit:cover; object-position:center;">
 
 
-# 👋 Hi, I'm Virakboth :D
+# 👋 Hi, I'm Virakboth! :D
 **🚀 Front-End Dev • 🐍 Python, Java**
 
 📚 Current Student @ *Step IT Academy & ISTAD*
@@ -65,4 +65,5 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
     - [**ISTAD**](https://www.cstad.edu.kh) - *Course: Full-Stack, AI (soon)*
 
 ## 🤓 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VirakbothSoth?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+![VirakbothSoth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirakbothSoth&layout=compact&theme=github_dark)

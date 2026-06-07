@@ -65,5 +65,4 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
     - [**ISTAD**](https://www.cstad.edu.kh) - *Course: Full-Stack, AI (soon)*
 
 ## 🤓 GitHub Stats
-![VirakbothSoth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirakbothSoth&layout=compact&theme=github_dark)
+![VirakbothSoth's GitHub Stats](https://vkbh-readme.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=github_dark)

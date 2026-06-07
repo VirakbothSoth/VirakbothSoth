@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/r8lt4mI.png" width="1000" height="500" style="object-fit:cover;">
+<img src="https://i.imgur.com/r8lt4mI.png">
 
 
 # 👋 Hi, I'm Virakboth! :D

@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/r8lt4mI.png" width="1000" height="500" style="object-fit:cover;">
+<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/18/da/9a/caption.jpg?w=1000&h=-1&s=1" width="1000" height="500" style="object-fit:cover;">
 
 
 # 👋 Hi, I'm Virakboth :D

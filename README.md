@@ -2,6 +2,10 @@
 
 
 # 👋 Hi, I'm Virakboth! :D
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=Profile%20Views&color=A9DEF9&style=flat-square" alt="Views" />
+  </p>
+  
 **🚀 Front-End Dev • 🐍 Python, Java**
 
 📚 Current Student @ *Step IT Academy & ISTAD*

@@ -16,7 +16,7 @@ Hey! It would help if you could star my repositories, thanks!
 [See my portfolio!](https://virakbothsoth.pages.dev)
 
 # ✨ Introduction
-<img src="https://eunxwlahgeqremjyymwp.supabase.co/storage/v1/object/public/virakboth/aa.png" />
+<img src="https://eunxwlahgeqremjyymwp.supabase.co/storage/v1/object/public/virakboth/aa.png" width="400" />
 
 Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming since I was 12 (at 2022)
 

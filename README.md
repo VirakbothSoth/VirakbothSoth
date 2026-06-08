@@ -11,10 +11,28 @@ Hey! It would help if you could star my repositories, thanks!
 
 [See my portfolio!](https://virakbothsoth.pages.dev)
 
-# ✨ Short Intro
-Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who's first programming language was actually ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), I learnt it since I was 12 years old.
+# ✨ Introduction
+<img src="https://eunxwlahgeqremjyymwp.supabase.co/storage/v1/object/public/virakboth/aa.png" />
 
-Now, I mainly focus on building websites with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white), using these frameworks since I was 14
+Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming since I was 12 (at 2022)
+
+I first started my coding journey with ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), I learnt it since I was 12 years old.
+
+Early on when I turned 13, this is when I began my studies for ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) & ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), Where I began making simple websites & eventually led to:
+
+Myself turning 14 where I started to learn basic frameworks like ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) while grasping concepts like ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)& ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+When I turned 15, this was when I learnt alot, here are the following:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+Now, I mainly focus on building websites with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) as it's a requirement for other schools I'm interested into taking.
 

@@ -27,7 +27,7 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 
 ## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind,bootstrap&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,astro,vite,tailwind,bootstrap&perline=4" />
 </p>
 
 ## ⚙️ Backend (still new to it)
@@ -43,7 +43,7 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 # 🔥 Currently Learning or Attempting to Master 
 *attempting to master as of June 7 2026*
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,django,astro&perline=4" />
+  <img src="https://skillicons.dev/icons?i=spring,redux,nextjs,django,astro&perline=4" />
 </p>
 
 # 📚 I took these courses!

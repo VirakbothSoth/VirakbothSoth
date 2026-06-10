@@ -16,8 +16,6 @@ Hey! It would help if you could star my repositories, thanks!
 [See my portfolio!](https://virakbothsoth.pages.dev)
 
 # ✨ Introduction
-<img src="https://eunxwlahgeqremjyymwp.supabase.co/storage/v1/object/public/virakboth/aa.png" width="400" />
-
 Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming since I was 12 (at 2022)
 
 I first started my coding journey with ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), I learnt it since I was 12 years old.
@@ -91,5 +89,6 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 
 ## 🤓 GitHub Stats
 <div align="center">
-<img src="https://vkbh-readme.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12">
+  <img src="https://vkbh-readme.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12&layout=compact" />
+  <img src="https://vkbh-readme.vercel.app/api/top-langs/?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12&layout=compact" />
 </div>

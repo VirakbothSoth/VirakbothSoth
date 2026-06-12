@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/r8lt4mI.png">
+<img src="https://i.imgur.com/bU0LrFt.png" width="800">
 
 
-# 👋 Hi, I'm Virakboth! :D
+# 👋 Hi, I'm Virakboth!
   <p>
     <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=Profile%20Views&color=A9DEF9&style=flat-square" alt="Views" />
   </p>

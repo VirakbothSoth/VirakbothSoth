@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Virakboth!
   <p>
-    <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=Profile%20Views&color=A9DEF9&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="Views" />
   </p>
   
 **🚀 Front-End Dev • 🐍 Python, Java**

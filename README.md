@@ -55,7 +55,12 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
   <img src="https://skillicons.dev/icons?i=spring,express,django,firebase,supabase,postgres&perline=4" />
 </p>
 
-## ⚓ Others/Tools
+## ⚓ Other Framework/Languages 
+<p>
+  <img src="https://skillicons.dev/icons?i=php" />
+</p>
+
+## ⚓ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman&perline=4" />
 </p>
@@ -63,7 +68,7 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 # 🔥 Currently Learning or Attempting to Master 
 *attempting to master as of June 7 2026*
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,redux,nextjs,django,astro&perline=4" />
+  <img src="https://skillicons.dev/icons?i=spring,redux,nextjs,django,astro,php&perline=4" />
 </p>
 
 # 📚 I took these courses!

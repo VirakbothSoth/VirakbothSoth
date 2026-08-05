@@ -66,7 +66,7 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 </p>
 
 # 🔥 Currently Learning or Attempting to Master 
-*attempting to master as of June 7 2026*
+*attempting to master as of August 5, 2026*
 <p>
   <img src="https://skillicons.dev/icons?i=spring,redux,nextjs,django,astro,php&perline=4" />
 </p>

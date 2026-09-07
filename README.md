@@ -44,7 +44,7 @@ I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=fl
 
 ## 💎 Generic Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts&perline=4" />
 </p>
 
 ## 🎨 Frontend

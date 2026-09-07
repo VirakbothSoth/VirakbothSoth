@@ -3,10 +3,10 @@
 
 # 👋 Hi, I'm Virakboth!
   <p>
-    <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="View Counter (Badge)" />
   </p>
   
-**🚀 Front-End Dev • 🐍 Python, Java**
+**🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java, Some C • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
 
 📚 Current Student @ *Step IT Academy & ISTAD*
 

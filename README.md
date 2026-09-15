@@ -6,6 +6,13 @@
     <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="View Counter (Badge)" />
   </p>
   
+<a href="https://www.linkedin.com/in/virakboth-soth/">
+  <span>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </span>
+</a>
+
+  
 **🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java, Some C • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
 
 📚 Current Student @ *Step IT Academy & ISTAD*
@@ -18,11 +25,7 @@ Hey! It would help if you could star my repositories, thanks!
 # ✨ Introduction
 Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming since 2022
 
-I started coding with ![Scratch](https://img.shields.io/badge/Scratch-F6AB3C?style=flat&logo=scratch&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-
-Later on in 2023, I learnt ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) & ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), Where I was making static websites & eventually led to:
-
-My journey in 2024 with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) while grasping concepts like ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) & ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I started coding with ![Scratch](https://img.shields.io/badge/Scratch-F6AB3C?style=flat&logo=scratch&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) & ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) in 2023, where I was making static websites & eventually led to ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) while grasping concepts like ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) & ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 I began to get more curious in 2025, learning some concepts of the following frameworks:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -38,8 +41,10 @@ In Late 2026, due to school curriculum [(at Step IT academy)](https://cambodia.i
 
 Now, I mainly focus on building websites with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) as it's a requirement for other schools I'm interested into taking.
+I'm also learning some ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) and ![C Programming Language](https://img.shields.io/badge/C_Programming_Language-394AAB?style=flat&logoColor=white) as it's a requirement for other schools I'm interested into taking.
 
+Currently, I'm not exactly an expert in everything I know however I'm interested in learning their basic concepts
+I prefer writing things in ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 # 🛠️ Tech Stack
 
 ## 💎 Generic Languages

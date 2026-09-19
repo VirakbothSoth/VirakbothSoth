@@ -17,7 +17,7 @@
 
 📚 Current Student @ *Step IT Academy & ISTAD*
 
-Hey! It would help if you could star my repositories, thanks!
+Hey! It would help if you could star my repositories, thanks :)!
 [Star this readme.md itself!](https://github.com/VirakbothSoth/VirakbothSoth)
 
 [See my portfolio!](https://virakbothsoth.pages.dev)
@@ -47,36 +47,61 @@ Currently, I'm not exactly an expert in everything I know however I'm interested
 I prefer writing things in ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 # 🛠️ Tech Stack
 
-## 💎 Generic Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts&perline=4" />
-</p>
+<div align="center">
+  <img src="https://vkbh-readme.vercel.app/api/top-langs/?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12&layout=compact" />
+</div>
 
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,astro,vite,tailwind,bootstrap&perline=4" />
-</p>
+<table border="0" width="100%" align="center">
+<tr>
+<td valign="top" width="33%" align="center">
 
-## ⚙️ Backend (still new to it)
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,express,django,firebase,supabase,postgres&perline=4" />
-</p>
+### 💎 Generic Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts&perline=3" />
 
-## ⚓ Other Framework/Languages 
-<p>
-  <img src="https://skillicons.dev/icons?i=php" />
-</p>
+</td>
+<td valign="top" width="33%" align="center">
 
-## ⚓ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman&perline=4" />
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,astro,vite,tailwind,bootstrap&perline=3" />
 
-# 🔥 Currently Learning or Attempting to Master 
-*attempting to master as of August 5, 2026*
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,redux,nextjs,django,astro,php&perline=4" />
-</p>
+</td>
+<td valign="top" width="33%" align="center">
+
+### ⚙️ Backend
+*(not great at it)* 
+
+<img src="https://skillicons.dev/icons?i=spring,express,django,firebase,supabase,postgres&perline=3" />
+
+</td>
+</tr>
+</table>
+
+<table border="0" width="100%" align="center">
+<tr>
+<td valign="top" width="33%" align="center">
+
+### ⚓ Others
+<img src="https://skillicons.dev/icons?i=php,flask" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### ⚓ Tools
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman&perline=3" />
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🔥 Currently Learning
+*as of Sep 19, 2026*
+
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+
+*learning due to STEP IT academy's term 4*
+
+</td>
+</tr>
+</table>
 
 # 📚 I took these courses!
 *not all courses are listed, i took too much 😭😭*
@@ -94,13 +119,8 @@ I prefer writing things in ![Next.js](https://img.shields.io/badge/Next.js-00000
             - [Professional React.js](https://coursera.org/specializations/react) *teaches even up to React v19*
             - [Next.JS](https://coursera.org/learn/learn-nextjs) 
             - [Supabase](https://coursera.org/learn/intro-to-supabase)
-            - [Astro Framework](https://coursera.org/learn/build-fast-websites-with-astro) I feel like there isn't enough courses that teach astro
+            - [Astro Framework](https://coursera.org/learn/build-fast-websites-with-astro) *I feel like there isn't enough courses that teach astro*
 - **Physical School**
     - [**Step IT Academy**](https://cambodia.itstep.org/) - *Major: Software Development*
     - [**ISTAD**](https://www.cstad.edu.kh) - *Course: Full-Stack, AI (soon)*
 
-## 🤓 GitHub Stats
-<div align="center">
-  <img src="https://vkbh-readme.vercel.app/api?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12&layout=compact" />
-  <img src="https://vkbh-readme.vercel.app/api/top-langs/?username=VirakbothSoth&show_icons=true&theme=transparent&border_color=2f353d&text_color=f0f6fc&border_radius=12&layout=compact" />
-</div>

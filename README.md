@@ -37,7 +37,7 @@ I began to get more curious in 2025, learning some concepts of the following fra
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-In Late 2026, due to school curriculum [(at Step IT academy)](https://cambodia.itstep.org), I had to learn ![PHP](https://img.shields.io/badge/PHP-1572B6?style=flat&logo=php&logoColor=white)
+In Late 2026, due to school curriculum [(at Step IT academy)](https://cambodia.itstep.org), I had to learn ![PHP](https://img.shields.io/badge/PHP-1572B6?style=flat&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) and ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logoColor=white)
 
 Now, I mainly focus on building websites with ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 

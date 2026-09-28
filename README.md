@@ -70,7 +70,7 @@ I prefer writing things in ![Next.js](https://img.shields.io/badge/Next.js-00000
 ### ⚙️ Backend
 *(not great at it)* 
 
-<img src="https://skillicons.dev/icons?i=spring,express,django,firebase,supabase,postgres&perline=3" />
+<img src="https://skillicons.dev/icons?i=spring,express,django,firebase,supabase,postgres,mysql&perline=3" />
 
 </td>
 </tr>
@@ -93,9 +93,9 @@ I prefer writing things in ![Next.js](https://img.shields.io/badge/Next.js-00000
 <td valign="top" width="33%" align="center">
 
 ### 🔥 Currently Learning
-*as of Sep 19, 2026*
+*as of Sep 28, 2026*
 
-<img src="https://skillicons.dev/icons?i=php,mysql" />
+<img src="https://skillicons.dev/icons?i=aws" />
 
 *learning due to STEP IT academy's term 4*
 

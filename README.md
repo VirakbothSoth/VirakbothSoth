@@ -17,7 +17,9 @@
   
 **🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java, Some C • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
 
-📚 Current Student @ *Step IT Academy & ISTAD*
+📚 Current Student in: 
+- Step IT Academy (Associate Degree in **Software Engineering**!)
+- Institute of Science and Technology Advanced Development (ITE Scholarship, Full-Stack, **Artificial Intelligence** and **Machine Learning**!)
 
 Hey! It would help if you could star my repositories, thanks :)!
 [Star this readme.md itself!](https://github.com/VirakbothSoth/VirakbothSoth)
@@ -25,7 +27,7 @@ Hey! It would help if you could star my repositories, thanks :)!
 [See my portfolio!](https://virakbothsoth.pages.dev)
 
 # ✨ Introduction
-Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming since 2022
+Hello, I'm **Virakboth Soth** *(or, just call me sam)*, I'm a front-end developer who has been learning programming and some IT things since 2022!
 
 I started coding with ![Scratch](https://img.shields.io/badge/Scratch-F6AB3C?style=flat&logo=scratch&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) & ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) in 2023, where I was making static websites & eventually led to ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) & ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) while grasping concepts like ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) & ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 

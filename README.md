@@ -9,12 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="View Counter (Badge)" />
   </p>
   
-<a href="https://www.linkedin.com/in/virakboth-soth/">
-  <span>
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </span>
-</a>
-  
 **🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java, Some C • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
 
 📚 Current Student in: 

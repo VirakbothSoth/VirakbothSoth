@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=VirakbothSoth&label=README.md%20Views%20(Thanks)&color=5757de&style=flat-square" alt="View Counter (Badge)" />
   </p>
   
-**🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java, Some C • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
+**🚀 Next.JS & Tailwind Front-End Developer • 🐍 Python, Java • 🚀 First Khmer [Astro](https://astro.build) Developer (maybe)**
 
 📚 Current Student in: 
 - Step IT Academy (Associate Degree in **Software Engineering**!)
